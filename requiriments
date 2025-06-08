@@ -1,5 +1,7 @@
-torch
+paddleocr
+pymupdf 
 transformers
+torch
 protobuf
 sentencepiece
-pymupdf 
+openai

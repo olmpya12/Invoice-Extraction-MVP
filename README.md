@@ -38,8 +38,12 @@ This repository contains a **minimum‑viable prototype (MVP)** that automatical
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
+
+python3 -m pip install paddlepaddle-gpu==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/ 
+
+# For CPU acceleration  python -m pip install paddlepaddle==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+
 pip install -r requirements.txt
-# For GPU acceleration add:  paddlepaddle-gpu==2.6.1.post120  (CUDA 12.0 build)
 ```
 
 > **Note** Set your Groq key before running the LLM pipeline:
