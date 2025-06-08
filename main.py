@@ -17,7 +17,7 @@ from src.InvoiceExtractors import (
     LayoutInvoiceExtractor,
 )
 from openai import OpenAI
-
+import os
 
 def run_regex_pipeline(pdf_path: str, output_dir: str):
     extractor = RegexInvoiceExtractor(Path(pdf_path), Path(output_dir))
@@ -27,7 +27,7 @@ def run_regex_pipeline(pdf_path: str, output_dir: str):
 def run_llm_pipeline(pdf_path: str, output_dir: str):
     client = OpenAI(
         base_url="https://api.groq.com/openai/v1",
-        api_key="put-api-key",  # replace with your key or use env-var
+        api_key=os.getenv('GROQ_API_KEY'),  # replace with your key or use env-var
     )
     model = "deepseek-r1-distill-llama-70b"
     system_prompt = """You are an invoice-extraction engine.
