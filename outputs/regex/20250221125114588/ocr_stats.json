@@ -1,0 +1,36 @@
+{
+  "page_1": {
+    "mean_conf": 98.27,
+    "stdev_conf": 1.22
+  },
+  "page_2": {
+    "mean_conf": 98.36,
+    "stdev_conf": 0.86
+  },
+  "page_3": {
+    "mean_conf": 98.28,
+    "stdev_conf": 0.89
+  },
+  "page_4": {
+    "mean_conf": 98.36,
+    "stdev_conf": 1.36
+  },
+  "page_5": {
+    "mean_conf": 98.1,
+    "stdev_conf": 1.15
+  },
+  "page_6": {
+    "mean_conf": 98.26,
+    "stdev_conf": 1.17
+  },
+  "page_7": {
+    "mean_conf": 98.31,
+    "stdev_conf": 1.01
+  },
+  "page_8": {
+    "mean_conf": 97.42,
+    "stdev_conf": 1.2
+  },
+  "overall_mean_conf": 98.2,
+  "overall_stdev_conf": 1.13
+}

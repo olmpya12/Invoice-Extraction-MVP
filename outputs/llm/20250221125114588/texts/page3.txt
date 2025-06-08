@@ -1,0 +1,32 @@
+Unit Price: $319.72
+Am0unt: $6394,40
+11. Testing Equipment
+Product Code: PRD-7611-A
+Quantity: 8 units
+Unit Price: $743.48
+Am0unt: $5947.84
+12. Industrial Controls
+Product Code: PRD-9400-A
+Quantity: 93 units
+Unit Price: $38.06
+Amount: $3539.58
+13. Testing Equipment
+Product Code: PRD-2020-E
+Quantity: 47 units
+Unit Price: $17.71
+Amount: $832.37
+14. Industrial Controls
+Product Code: PRD-9365-I
+Quantity: 43 units
+Unit Price: $808.81
+Amount: $34778.83
+15.Circuit Boards
+Product Code: PRD-1141-G
+Quantity: 28 units
+Unit Price: $178.71
+Amount: $5003.88
+16. Industrial Controls
+Product Code: PRD-8328-H
+Quantity: 68 units
+Unit Price: $673.08
+Am0unt: $45769.44

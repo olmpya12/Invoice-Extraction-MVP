@@ -1,0 +1,33 @@
+4. Industrial Controls
+Product Code: PRD-6726-P
+Quantity: 42 units
+Unit Price: $52.86
+Amount: $2220.12
+5. Semiconductor Parts
+ProductCode:PRD-8618-V
+Quantity: 65 units
+Unit Price: $175.38
+Amount: $11399.70
+6. Electronic Components
+Product Code: PRD-7378-Y
+Quantity: 18 units
+Unit Price: $121.70
+Amount: $2190.60
+7. Electronic Components
+Product Code: PRD-8373-N
+Quantity: 19 units
+Unit Price: $902.24
+Am0unt: $17142.56
+8. Circuit Boards
+Product Code: PRD-5464-H
+Quantity: 4 units
+Unit Price: $860.40
+Amount: $3441.60
+9.Circuit Boards
+Product Code: PRD-1497-Y
+Quantity: 95 units
+Unit Price: $956.79
+Amount: $90895.05
+10. Semiconductor Parts
+Product Code: PRD-8247-1
+Quantity: 20 units

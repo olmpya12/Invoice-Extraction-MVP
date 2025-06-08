@@ -1,0 +1,27 @@
+GLOBAL TECH SOLUTIONS LTD.
+123 Innovation Street
+Tech District
+London, UK EC1A 1BB
+Tel: +44207123 4567
+VAT:GB123456789
+INVOICE
+Invoice Number: INV-43071
+Invoice Date: 20/02/2025
+Due Date: 22/03/2025
+BILL TO:
+Tech Innovations Inc.
+Attn: Procurement Department
+789 Silicon Avenue
+San Francisco, CA 94105
+USA
+VAT:US987654321
+DESCRIPTION
+Software Development Services - Frontend Development
+Hours: 80 x Rate: $145.00/hr
+Amount: $11,600.00
+Backend API Integration
+Hours: 120 x Rate: $165.00/hr
+Amount: $19,800.00
+Cloud Infrastructure Setup
+Hours: 40 x Rate: $185.00/hr
+Am0unt: $7,400.00

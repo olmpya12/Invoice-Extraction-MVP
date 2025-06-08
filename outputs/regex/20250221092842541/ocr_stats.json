@@ -1,0 +1,12 @@
+{
+  "page_1": {
+    "mean_conf": 98.7,
+    "stdev_conf": 1.12
+  },
+  "page_2": {
+    "mean_conf": 98.36,
+    "stdev_conf": 1.25
+  },
+  "overall_mean_conf": 98.55,
+  "overall_stdev_conf": 1.18
+}

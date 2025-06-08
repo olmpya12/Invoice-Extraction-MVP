@@ -1,0 +1,375 @@
+{
+  "supplier": {
+    "name": "GLOBAL TECH SOLUTIONS LTD.",
+    "vat": "GB123456789"
+  },
+  "invoice_no": "INV-62340",
+  "date": "09/02/2025",
+  "items": [
+    {
+      "description": "Semiconductor Parts",
+      "product_code": "PRD-7338-U",
+      "qty": 18,
+      "unit_price": 18.08,
+      "line_total": 325.44,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-2918-Q",
+      "qty": 25,
+      "unit_price": 456.78,
+      "line_total": 11419.5,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-3013-P",
+      "qty": 56,
+      "unit_price": 817.91,
+      "line_total": 45802.96,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-6726-P",
+      "qty": 42,
+      "unit_price": 52.86,
+      "line_total": 2220.12,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Semiconductor Parts",
+      "product_code": "PRD-8618-V",
+      "qty": 65,
+      "unit_price": 175.38,
+      "line_total": 11399.7,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-7378-Y",
+      "qty": 18,
+      "unit_price": 121.7,
+      "line_total": 2190.6,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-8373-N",
+      "qty": 19,
+      "unit_price": 902.24,
+      "line_total": 17142.56,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Circuit Boards",
+      "product_code": "PRD-5464-H",
+      "qty": 4,
+      "unit_price": 860.4,
+      "line_total": 3441.6,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Circuit Boards",
+      "product_code": "PRD-1497-Y",
+      "qty": 95,
+      "unit_price": 956.79,
+      "line_total": 90895.05,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Semiconductor Parts",
+      "product_code": "PRD-8247-1",
+      "qty": 20,
+      "unit_price": 319.72,
+      "line_total": 6394.4,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Testing Equipment",
+      "product_code": "PRD-7611-A",
+      "qty": 8,
+      "unit_price": 743.48,
+      "line_total": 5947.84,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-9400-A",
+      "qty": 93,
+      "unit_price": 38.06,
+      "line_total": 3539.58,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Testing Equipment",
+      "product_code": "PRD-2020-E",
+      "qty": 47,
+      "unit_price": 17.71,
+      "line_total": 832.37,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-9365-I",
+      "qty": 43,
+      "unit_price": 808.81,
+      "line_total": 34778.83,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Circuit Boards",
+      "product_code": "PRD-1141-G",
+      "qty": 28,
+      "unit_price": 178.71,
+      "line_total": 5003.88,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-8328-H",
+      "qty": 68,
+      "unit_price": 673.08,
+      "line_total": 45769.44,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Circuit Boards",
+      "product_code": "PRD-1824-F",
+      "qty": 84,
+      "unit_price": 287.45,
+      "line_total": 24145.8,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-4863-U",
+      "qty": 65,
+      "unit_price": 561.96,
+      "line_total": 36527.4,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-8536-K",
+      "qty": 24,
+      "unit_price": 833.55,
+      "line_total": 20005.2,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Testing Equipment",
+      "product_code": "PRD-1324-T",
+      "qty": 19,
+      "unit_price": 765.07,
+      "line_total": 14536.33,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Semiconductor Parts",
+      "product_code": "PRD-6072-N",
+      "qty": 7,
+      "unit_price": 357.55,
+      "line_total": 2502.85,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-6566-X",
+      "qty": 25,
+      "unit_price": 25.0,
+      "line_total": 625.0,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Semiconductor Parts",
+      "product_code": "PRD-4120-C",
+      "qty": 90,
+      "unit_price": 26.81,
+      "line_total": 2412.9,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Semiconductor Parts",
+      "product_code": "PRD-5444-V",
+      "qty": 48,
+      "unit_price": 602.36,
+      "line_total": 28913.28,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-9603-E",
+      "qty": 36,
+      "unit_price": 884.13,
+      "line_total": 31828.68,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Power Supplies",
+      "product_code": "PRD-8637-M",
+      "qty": 38,
+      "unit_price": 746.04,
+      "line_total": 28349.52,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Semiconductor Parts",
+      "product_code": "PRD-9138-S",
+      "qty": 86,
+      "unit_price": 998.83,
+      "line_total": 85899.38,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Power Supplies",
+      "product_code": "PRD-8909-1",
+      "qty": 23,
+      "unit_price": 625.72,
+      "line_total": 14391.56,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-4919-L",
+      "qty": 92,
+      "unit_price": 295.58,
+      "line_total": 27193.36,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-5819-G",
+      "qty": 92,
+      "unit_price": 388.45,
+      "line_total": 35737.4,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Testing Equipment",
+      "product_code": "PRD-7893-N",
+      "qty": 39,
+      "unit_price": 709.53,
+      "line_total": 27671.67,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-8864-N",
+      "qty": 48,
+      "unit_price": 286.33,
+      "line_total": 13743.84,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Testing Equipment",
+      "product_code": "PRD-8715-Y",
+      "qty": 21,
+      "unit_price": 130.93,
+      "line_total": 2749.53,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Testing Equipment",
+      "product_code": "PRD-8281-I",
+      "qty": 91,
+      "unit_price": 145.64,
+      "line_total": 13253.24,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-7836-1",
+      "qty": 58,
+      "unit_price": 118.54,
+      "line_total": 6875.32,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-6303-R",
+      "qty": 60,
+      "unit_price": 854.82,
+      "line_total": 51289.2,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Industrial Controls",
+      "product_code": "PRD-3933-A",
+      "qty": 10,
+      "unit_price": 577.64,
+      "line_total": 5776.4,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Circuit Boards",
+      "product_code": "PRD-8621-W",
+      "qty": 32,
+      "unit_price": 190.74,
+      "line_total": 6103.68,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-7202-I",
+      "qty": 73,
+      "unit_price": 172.77,
+      "line_total": 12612.21,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Power Supplies",
+      "product_code": "PRD-3558-H",
+      "qty": 17,
+      "unit_price": 236.79,
+      "line_total": 4025.43,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Power Supplies",
+      "product_code": "PRD-9287-0",
+      "qty": 33,
+      "unit_price": 784.54,
+      "line_total": 25889.82,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-7415-A",
+      "qty": 25,
+      "unit_price": 857.03,
+      "line_total": 21425.75,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Testing Equipment",
+      "product_code": "PRD-8662-R",
+      "qty": 21,
+      "unit_price": 579.62,
+      "line_total": 12172.02,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Power Supplies",
+      "product_code": "PRD-2303-X",
+      "qty": 96,
+      "unit_price": 384.89,
+      "line_total": 36949.44,
+      "po_number": "PO-135298"
+    },
+    {
+      "description": "Electronic Components",
+      "product_code": "PRD-3325-T",
+      "qty": 27,
+      "unit_price": 159.92,
+      "line_total": 4317.84,
+      "po_number": "PO-135298"
+    }
+  ],
+  "totals": {
+    "subtotal": 885027.92,
+    "vat": 177005.58,
+    "total": 1062033.5
+  }
+}

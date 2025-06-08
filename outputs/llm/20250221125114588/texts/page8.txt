@@ -1,0 +1,23 @@
+43. Testing Equipment
+Product Code: PRD-8662-R
+Quantity: 21 units
+Unit Price: $579.62
+Amount: $12172,02
+44. Power Supplies
+Product Code: PRD-2303-X
+Quantity: 96 units
+Unit Price: $384.89
+Amount: $36949.44
+45. Electronic Components
+Product Code: PRD-3325-T
+Quantity: 27 units
+Unit Price: $159.92
+Amount: $4317.84
+Subtotal: $885027.92
+VAT (20%): $177005.58
+Total An0unt: $1062033.50
+Payment Terms:
+Payment due within 30 days
+Please include invoice number in payment reference
+Bank Details: IBAN: GB29 NWBK6016 13319268 19
+SWIFT: NWBKGB2L

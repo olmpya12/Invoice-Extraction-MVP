@@ -1,0 +1,415 @@
+{
+  "supplier": {
+    "name": "GLOBAL TECH SOLUTIONS LTD.",
+    "vat": "GB123456789"
+  },
+  "invoice_no": "INV-53470",
+  "date": "20/02/2025",
+  "items": [
+    {
+      "description": "Power Supply",
+      "product_code": "PRD-5976",
+      "qty": 39,
+      "unit_price": 479.1,
+      "line_total": 18684.9,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Motherboard",
+      "product_code": "PRD-8211",
+      "qty": 32,
+      "unit_price": 107.79,
+      "line_total": 3449.28,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-9055",
+      "qty": 28,
+      "unit_price": 128.72,
+      "line_total": 3604.16,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "SSD Drive",
+      "product_code": "PRD-5064",
+      "qty": 34,
+      "unit_price": 234.81,
+      "line_total": 7983.54,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "USB Controller",
+      "product_code": "PRD-6326",
+      "qty": 29,
+      "unit_price": 131.23,
+      "line_total": 3805.67,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "USB Controller",
+      "product_code": "PRD-8572",
+      "qty": 4,
+      "unit_price": 108.52,
+      "line_total": 434.08,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "USB Controller",
+      "product_code": "PRD-8419",
+      "qty": 7,
+      "unit_price": 102.66,
+      "line_total": 718.62,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Network Card",
+      "product_code": "PRD-2738",
+      "qty": 24,
+      "unit_price": 285.41,
+      "line_total": 6849.84,
+      "po_number": "PO-360206"
+    },
+    {
+      "description": "Cooling Fan",
+      "product_code": "PRD-1771",
+      "qty": 15,
+      "unit_price": 441.63,
+      "line_total": 6624.45,
+      "po_number": "PO-360206"
+    },
+    {
+      "description": "Graphics Card",
+      "product_code": "PRD-1238",
+      "qty": 9,
+      "unit_price": 324.29,
+      "line_total": 2918.61,
+      "po_number": "PO-360206"
+    },
+    {
+      "description": "Graphics Card",
+      "product_code": "PRD-2225",
+      "qty": 24,
+      "unit_price": 262.26,
+      "line_total": 6294.24,
+      "po_number": "PO-360206"
+    },
+    {
+      "description": "USB Controller",
+      "product_code": "PRD-1372",
+      "qty": 19,
+      "unit_price": 45.72,
+      "line_total": 868.68,
+      "po_number": "PO-360206"
+    },
+    {
+      "description": "USB Controller",
+      "product_code": "PRD-6208",
+      "qty": 3,
+      "unit_price": 160.93,
+      "line_total": 482.79,
+      "po_number": "PO-360206"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-5513",
+      "qty": 45,
+      "unit_price": 428.3,
+      "line_total": 19273.5,
+      "po_number": "PO-360206"
+    },
+    {
+      "description": "Memory Module",
+      "product_code": "PRD-4588",
+      "qty": 39,
+      "unit_price": 205.12,
+      "line_total": 7999.68,
+      "po_number": "PO-620097"
+    },
+    {
+      "description": "Power Supply",
+      "product_code": "PRD-7942",
+      "qty": 19,
+      "unit_price": 48.05,
+      "line_total": 912.95,
+      "po_number": "PO-620097"
+    },
+    {
+      "description": "Cooling Fan",
+      "product_code": "PRD-9459",
+      "qty": 16,
+      "unit_price": 336.13,
+      "line_total": 5378.08,
+      "po_number": "PO-620097"
+    },
+    {
+      "description": "Network Card",
+      "product_code": "PRD-8913",
+      "qty": 22,
+      "unit_price": 489.96,
+      "line_total": 10779.12,
+      "po_number": "PO-620097"
+    },
+    {
+      "description": "usB Controller",
+      "product_code": "PRD-6575",
+      "qty": 9,
+      "unit_price": 134.91,
+      "line_total": 1214.19,
+      "po_number": "PO-620097"
+    },
+    {
+      "description": "Memory Module",
+      "product_code": "PRD-5309",
+      "qty": 41,
+      "unit_price": 152.23,
+      "line_total": 6241.43,
+      "po_number": "PO-620097"
+    },
+    {
+      "description": "Motherboard",
+      "product_code": "PRD-2463",
+      "qty": 48,
+      "unit_price": 155.39,
+      "line_total": 7458.72,
+      "po_number": "PO-620097"
+    },
+    {
+      "description": "Power Supply",
+      "product_code": "PRD-4967",
+      "qty": 19,
+      "unit_price": 268.47,
+      "line_total": 5100.93,
+      "po_number": "PO-756014"
+    },
+    {
+      "description": "Motherboard",
+      "product_code": "PRD-1769",
+      "qty": 20,
+      "unit_price": 113.63,
+      "line_total": 2272.6,
+      "po_number": "PO-756014"
+    },
+    {
+      "description": "Memory Module",
+      "product_code": "PRD-2649",
+      "qty": 14,
+      "unit_price": 459.39,
+      "line_total": 6431.46,
+      "po_number": "PO-756014"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-4113",
+      "qty": 19,
+      "unit_price": 56.26,
+      "line_total": 1068.94,
+      "po_number": "PO-756014"
+    },
+    {
+      "description": "USB Controller",
+      "product_code": "PRD-4823",
+      "qty": 26,
+      "unit_price": 310.99,
+      "line_total": 8085.74,
+      "po_number": "PO-756014"
+    },
+    {
+      "description": "Power Supply",
+      "product_code": "PRD-8435",
+      "qty": 41,
+      "unit_price": 312.75,
+      "line_total": 12822.75,
+      "po_number": "PO-756014"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-9612",
+      "qty": 23,
+      "unit_price": 301.65,
+      "line_total": 6937.95,
+      "po_number": "PO-756014"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-3310",
+      "qty": 37,
+      "unit_price": 31.8,
+      "line_total": 1176.6,
+      "po_number": "PO-842742"
+    },
+    {
+      "description": "Memory Module",
+      "product_code": "PRD-7041",
+      "qty": 47,
+      "unit_price": 402.38,
+      "line_total": 18911.86,
+      "po_number": "PO-842742"
+    },
+    {
+      "description": "Network Card",
+      "product_code": "PRD-1167",
+      "qty": 36,
+      "unit_price": 172.19,
+      "line_total": 6198.84,
+      "po_number": "PO-842742"
+    },
+    {
+      "description": "Memory Module",
+      "product_code": "PRD-1991",
+      "qty": 30,
+      "unit_price": 287.34,
+      "line_total": 8620.2,
+      "po_number": "PO-842742"
+    },
+    {
+      "description": "Memory Module",
+      "product_code": "PRD-7450",
+      "qty": 46,
+      "unit_price": 200.1,
+      "line_total": 9204.6,
+      "po_number": "PO-842742"
+    },
+    {
+      "description": "Graphics Card",
+      "product_code": "PRD-8062",
+      "qty": 10,
+      "unit_price": 150.36,
+      "line_total": 1503.6,
+      "po_number": "PO-842742"
+    },
+    {
+      "description": "Cooling Fan",
+      "product_code": "PRD-3574",
+      "qty": 49,
+      "unit_price": 365.46,
+      "line_total": 17907.54,
+      "po_number": "PO-842742"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-3154",
+      "qty": 26,
+      "unit_price": 247.35,
+      "line_total": 6431.1,
+      "po_number": "PO-362820"
+    },
+    {
+      "description": "Cooling Fan",
+      "product_code": "PRD-5950",
+      "qty": 33,
+      "unit_price": 395.16,
+      "line_total": 13040.28,
+      "po_number": "PO-362820"
+    },
+    {
+      "description": "SSD Drive",
+      "product_code": "PRD-8988",
+      "qty": 48,
+      "unit_price": 411.78,
+      "line_total": 19765.44,
+      "po_number": "PO-362820"
+    },
+    {
+      "description": "HDMI Cable",
+      "product_code": "PRD-9909",
+      "qty": 13,
+      "unit_price": 317.08,
+      "line_total": 4122.04,
+      "po_number": "PO-362820"
+    },
+    {
+      "description": "HDMI Cable",
+      "product_code": "PRD-4267",
+      "qty": 48,
+      "unit_price": 349.07,
+      "line_total": 16755.36,
+      "po_number": "PO-362820"
+    },
+    {
+      "description": "Power Supply",
+      "product_code": "PRD-7856",
+      "qty": 5,
+      "unit_price": 348.2,
+      "line_total": 1741.0,
+      "po_number": "PO-362820"
+    },
+    {
+      "description": "Power Supply",
+      "product_code": "PRD-4683",
+      "qty": 29,
+      "unit_price": 268.37,
+      "line_total": 7782.73,
+      "po_number": "PO-362820"
+    },
+    {
+      "description": "HDMI Cable",
+      "product_code": "PRD-7453",
+      "qty": 22,
+      "unit_price": 242.68,
+      "line_total": 5338.96,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-9473",
+      "qty": 28,
+      "unit_price": 217.33,
+      "line_total": 6085.24,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "SSD Drive",
+      "product_code": "PRD-7092",
+      "qty": 13,
+      "unit_price": 123.21,
+      "line_total": 1601.73,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Graphics Card",
+      "product_code": "PRD-5621",
+      "qty": 1,
+      "unit_price": 429.35,
+      "line_total": 429.35,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Graphics Card",
+      "product_code": "PRD-2818",
+      "qty": 36,
+      "unit_price": 123.4,
+      "line_total": 4442.4,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Cooling Fan",
+      "product_code": "PRD-3978",
+      "qty": 49,
+      "unit_price": 281.1,
+      "line_total": 13773.9,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "USB Controller",
+      "product_code": "PRD-2599",
+      "qty": 37,
+      "unit_price": 58.92,
+      "line_total": 2180.04,
+      "po_number": "PO-526365"
+    },
+    {
+      "description": "Microprocessor",
+      "product_code": "PRD-7695",
+      "qty": 31,
+      "unit_price": 431.01,
+      "line_total": 13361.31,
+      "po_number": "PO-360206"
+    }
+  ],
+  "totals": {
+    "subtotal": 11420.61,
+    "vat": 2284.12,
+    "total": 18684.9
+  }
+}

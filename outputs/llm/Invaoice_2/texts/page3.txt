@@ -1,0 +1,119 @@
+PRD-8913
+Network Card
+Qty: 22
+Price： $489.96
+Total: $10779.12
+PO：PO-
+620097
+PRD-6575
+usB Controller
+Qty: 9
+Price: $134.91
+Total: $1214.19
+PO：PO-
+620097
+PRD-5309
+Memory Module
+Qty: 41
+Price: $152.23
+Total: $6241.43
+PO：PO-
+620097
+PRD-2463
+Motherboard
+Qty: 48
+Price： $155.39
+Total：$7458.72
+PO：PO-
+620097
+PRD-4967
+Power Supply
+Qty: 19
+Price： $268.47
+Total： $5100.93
+PO：PO-
+756014
+PRD-1769
+Motherboard
+Qty: 20
+Price： $113.63
+Total： $2272.6
+PO：PO-
+756014
+PRD-2649
+Memory Module
+Qty: 14
+Price: $459.39
+Total: $643l.46
+PO：PO-
+756014
+PRD-4113
+Microprocessor
+Qty: 19
+Price： $56.26
+Total： $1068.94
+PO：PO-
+756014
+PRD-4823
+USB Controller
+Qty: 26
+Price: $310.99
+Total：$8085.74
+PO:
+PO-756014
+PRD-8435
+Power Supply
+Qty: 41
+Price: $312.75
+Total: $12822.75
+PO：PO-
+756014
+PRD-9612
+Microprocessor
+Qty: 23
+Price: $301.65
+Total： $6937.95
+PO:
+PO-756014
+PRD-3310
+Microprocessor
+Qty: 37
+Price: $3l.8
+Total: $1176.6
+PO：PO-
+842742
+PRD-7041
+Memory Module
+Qty: 47
+Price： $402.38
+Total:$18911.86
+PO:
+PO-842742
+PRD-1167
+Network Card
+Qty: 36
+Price: $172.19
+Total: $6198.84
+PO：PO-
+842742
+PRD-1991
+Memory Module
+Qty: 30
+Price： $287.34
+Total： $8620.2
+PO：PO-
+842742
+PRD-7450
+Memory Module
+Qty: 46
+Price： $200.1
+Total： $9204.6
+PO：PO-
+842742
+PRD-8062
+Graphics Card
+Qty: 10
+Price： $150.36
+Total: $1503.6
+PO：PO-
+842742

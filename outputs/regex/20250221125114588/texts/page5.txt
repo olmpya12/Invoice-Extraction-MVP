@@ -1,0 +1,32 @@
+Unit Price; $26.81
+Amount: $2412.90
+24. Semiconductor Parts
+Product Code: PRD-5444-V
+Quantity: 48 units
+Unit Price: $602.36
+Am0unt: $28913.28
+25. Industrial Controls
+Product Code: PRD-9603-E
+Quantity: 36 units
+Unit Price: $884.13
+Amount: $31828.68
+26. Power Supplies
+Product Code: PRD-8637-M
+Quantity: 38 units
+Unit Price: $746.04
+Am0unt: $28349.52
+27. Semiconductor Parts
+Product Code: PRD-9138-S
+Quantity: 86 units
+Unit Price: $998.83
+Amount: $85899.38
+28. Power Supplies
+Product Code: PRD-8909-1
+Quantity: 23 units
+Unit Price: $625.72
+Amount: $14391.56
+29. Industrial Controls
+Product Code: PRD-4919-L
+Quantity: 92 units
+Unit Price: $295.58
+Amount: $27193.36

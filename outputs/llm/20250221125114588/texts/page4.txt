@@ -1,0 +1,33 @@
+17.Circuit Boards
+Product Code: PRD-1824-F
+Quantity: 84 units
+Unit Price: $287.45
+Am0unt: $24145.80
+18. Electronic Components
+Product Code: PRD-4863-U
+Quantity: 65 units
+Unit Price: $561.96
+Amount: $36527.40
+19. Electronic Components
+Product Code: PRD-8536-K
+Quantity: 24 units
+Unit Price: $833.55
+Amount: $20005.20
+20. Testing Equipment
+Product Code: PRD-1324-T
+Quantity: 19 units
+Unit Price: $765.07
+Am0unt: $14536.33
+21.Semiconductor Parts
+Product Code: PRD-6072-N
+Quantity: 7 units
+Unit Price: $357.55
+Amount: $2502.85
+22. Industrial Controls
+Product Code: PRD-6566-X
+Quantity: 25 units
+Unit Price: $25.00
+Amount: $625.00
+23.Semiconductor Parts
+Product Code: PRD-4120-C
+Quantity: 90 units

@@ -1,0 +1,105 @@
+PRD-3574
+Cooling Fan
+Qty: 49
+Price： $365.46
+Total: $17907.54
+PO：PO-
+842742
+PRD-3154
+Microprocessor
+Qty: 26
+Price： $247.35
+Total: $6431.1
+PO：PO-
+362820
+PRD-5950
+Cooling Fan
+Qty: 33
+Price: $395.16
+Total: $13040.28
+PO：PO-
+362820
+PRD-8988
+SSD Drive
+Qty: 48
+Price: $41l.78
+Total： $19765.44
+PO：PO-
+362820
+PRD-9909
+HDMI Cable
+Qty: 13
+Price: $317.08
+Total： $4122.04
+PO：PO-
+362820
+PRD-4267
+HDMI Cable
+Qty: 48
+Price: $349.07
+Total： $16755.36
+PO：PO-
+362820
+PRD-7856
+Power Supply
+Qty: 5
+Price: $348.2
+Total: $174l.0
+PO：PO-
+362820
+PRD-4683
+Power Supply
+Qty: 29
+Price： $268.37
+Total：$7782.73
+PO：PO-
+362820
+PRD-7453
+HDMI Cable
+Qty: 22
+Price： $242.68
+Total： $5338.96
+PO：PO-
+526365
+PRD-9473
+Microprocessor
+Qty: 28
+Price: $217.33
+Total： $6085.24
+PO:
+PO-526365
+PRD-7092
+SSD Drive
+Qty: 13
+Price: $123.21
+Total: $1601.73
+PO：PO-
+526365
+PRD-5621
+Graphics Card
+Qty:1
+Price： $429.35
+Total: $429.35
+PO：PO-
+526365
+PRD-2818
+Graphics Card
+Qty: 36
+Price: $123.4
+Total: $4442.4
+PO：PO-
+526365
+PRD-3978
+Cooling Fan
+Qty: 49
+Price: $281.1
+Total: $13773.9
+PO：PO-
+526365
+PRD-2599
+USB Controller
+Qty: 37
+Price: $58.92
+Total： $2180.04
+PO：PO-
+526365

@@ -1,0 +1,32 @@
+Unit Price: $854.82
+Amount: $51289.20
+37. Industrial Controls
+Product Code: PRD-3933-A
+Quantity: 10 units
+Unit Price; $577.64
+Amount: $5776.40
+38. Circuit Boards
+Product Code: PRD-8621-W
+Quantity: 32 units
+Unit Price: $190.74
+Am0unt: $6103.68
+39. Electronic Components
+Product Code: PRD-7202-I
+Quantity: 73 units
+Unit Price: $172.77
+Amount: $12612.21
+40. Power Supplies
+Product Code: PRD-3558-H
+Quantity: 17 units
+Unit Price: $236.79
+Am0unt: $4025.43
+41. Power Supplies
+Product Code: PRD-9287-0
+Quantity: 33 units
+Unit Price: $784.54
+Amount: $25889.82
+42.Electronic Components
+Product Code: PRD-7415-A
+Quantity: 25 units
+Unit Price: $857.03
+Amount: $21425.75

@@ -1,0 +1,77 @@
+PRD-8419
+USB Controller
+Qty: 7
+Price: $102.66
+Total：$718.62
+PO:PO-
+526365
+PRD-2738
+Network Card
+Qty: 24
+Price： $285.41
+Total: $6849.84
+PO：PO-
+360206
+PRD-1771
+Cooling Fan
+Qty: 15
+Price: $44l.63
+Total： $6624.45
+PO：PO-
+360206
+PRD-1238
+Graphics Card
+Qty: 9
+Price： $324.29
+Total： $2918.61
+PO:PO-
+360206
+PRD-2225
+Graphics Card
+Qty: 24
+Price： $262.26
+Total: $6294.24
+PO：PO-
+360206
+PRD-1372
+USB Controller
+Qty: 19
+Price： $45.72
+Total： $868.68
+PO：PO-
+360206
+PRD-6208
+USB Controller
+Qty: 3
+Price: $160.93
+Total： $482.79
+PO：PO-
+360206
+PRD-5513
+Microprocessor
+Qty: 45
+Price： $428.3
+Total: $19273.5
+PO：PO-
+360206
+PRD-4588
+Memory Module
+Qty: 39
+Price: $205.12
+Total: $7999.68
+PO：PO-
+620097
+PRD-7942
+Power Supply
+Qty: 19
+Price: $48.05
+Total: $912.95
+PO：PO-
+620097
+PRD-9459
+Cooling Fan
+Qty: 16
+Price: $336.13
+Total： $5378.08
+PO：PO-
+620097

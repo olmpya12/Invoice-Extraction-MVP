@@ -1,0 +1,55 @@
+{
+  "supplier": {
+    "name": "GLOBAL TECH SOLUTIONS LTD.",
+    "vat": "GB123456789"
+  },
+  "invoice_no": "INV-43071",
+  "date": "20/02/2025",
+  "items": [
+    {
+      "description": "Software Development Services - Frontend Development",
+      "product_code": "",
+      "qty": 80,
+      "unit_price": 145.0,
+      "line_total": 11600.0,
+      "po_number": ""
+    },
+    {
+      "description": "Backend API Integration",
+      "product_code": "",
+      "qty": 120,
+      "unit_price": 165.0,
+      "line_total": 19800.0,
+      "po_number": ""
+    },
+    {
+      "description": "Cloud Infrastructure Setup",
+      "product_code": "",
+      "qty": 40,
+      "unit_price": 185.0,
+      "line_total": 7400.0,
+      "po_number": ""
+    },
+    {
+      "description": "Security Audit and Implementation",
+      "product_code": "",
+      "qty": 35,
+      "unit_price": 195.0,
+      "line_total": 6825.0,
+      "po_number": ""
+    },
+    {
+      "description": "Project Management",
+      "product_code": "",
+      "qty": 45,
+      "unit_price": 125.0,
+      "line_total": 5625.0,
+      "po_number": ""
+    }
+  ],
+  "totals": {
+    "subtotal": 51250.0,
+    "vat": 10250.0,
+    "total": 61500.0
+  }
+}

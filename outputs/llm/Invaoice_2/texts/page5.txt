@@ -1,0 +1,13 @@
+PRD-7695
+Microprocessor
+Qty: 31
+Price: $43l.01
+Total: $13361.31
+PO:
+PO-360206
+Subtotal: $11420.61
+VAT (20%): $2284.12
+Total Amount: $13704.73
+Payment Terms: Net 30
+Bank Details: IBAN: GB29 NWBK 6016 1331 9268 19
+Swift Code: NWBKGB2L

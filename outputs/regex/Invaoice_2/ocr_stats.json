@@ -1,0 +1,24 @@
+{
+  "page_1": {
+    "mean_conf": 96.1,
+    "stdev_conf": 3.32
+  },
+  "page_2": {
+    "mean_conf": 95.22,
+    "stdev_conf": 3.68
+  },
+  "page_3": {
+    "mean_conf": 95.41,
+    "stdev_conf": 3.66
+  },
+  "page_4": {
+    "mean_conf": 95.57,
+    "stdev_conf": 3.45
+  },
+  "page_5": {
+    "mean_conf": 96.81,
+    "stdev_conf": 4.04
+  },
+  "overall_mean_conf": 95.57,
+  "overall_stdev_conf": 3.57
+}

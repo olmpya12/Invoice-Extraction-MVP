@@ -1,0 +1,30 @@
+GLOBAL TECH SOLUTIONS LTD.
+123 Innovation Street
+Tech City, TC 54321
+United Kingdom
+VAT:GB123456789
+INVOICENUMBER:INV-62340
+DATE: 09/02/2025
+PONUMBER: PO-135298
+BILL TO:
+Turkish Electronics Corporation
+Teknoloji Mahallesi
+Digital Plaza No:45
+34000 Istanbul, Turkey
+VAT:TR987654321
+INVOICEDETAILS:
+1. Semiconductor Parts
+Product Code: PRD-7338-U
+Quantity: 18 units
+Unit Price: $18.08
+Amount: $325.44
+2. Industrial Controls
+Product Code: PRD-2918-Q
+Quantity: 25 units
+Unit Price: $456.78
+Am0unt: $11419.50
+3. Industrial Controls
+Product Code: PRD-3013-P
+Quantity: 56 units
+Unit Price: $817.91
+Am0unt: $45802.96

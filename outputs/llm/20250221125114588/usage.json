@@ -1,0 +1,13 @@
+{
+  "completion_tokens": 3390,
+  "prompt_tokens": 2054,
+  "total_tokens": 5444,
+  "completion_tokens_details": null,
+  "prompt_tokens_details": null,
+  "queue_time": 0.09358904900000001,
+  "prompt_time": 0.149147057,
+  "completion_time": 12.327272727,
+  "total_time": 12.476419784,
+  "model": "deepseek-r1-distill-llama-70b",
+  "elapsed_sec": 32.86
+}

@@ -1,0 +1,57 @@
+GLOBAL TECH SOLUTIONS LTD.
+Unit 7, Industrial Park
+London, UK EC1A 1BB
+VAT: GB123456789
+Phone: +44 20 7123 4567
+Invoice Date: 20/02/2025
+Invoice Number: INV-53470
+Customer ID: CUST-5503
+Bill To:
+Tech Innovations Inc.
+123 Business Avenue
+New York, NY 10001
+USA
+Tax ID: US987654321
+Item Details:
+PRD-5976
+Power Supply
+Qty: 39
+Price: $479.1
+Total： $18684.9
+PO：PO-
+526365
+PRD-8211
+Motherboard
+Qty: 32
+Price: $107.79
+Total： $3449.28
+PO：PO-
+526365
+PRD-9055
+Microprocessor
+Qty: 28
+Price: $128.72
+Total: $3604.16
+PO:
+PO-526365
+PRD-5064
+SSD Drive
+Qty: 34
+Price: $234.81
+Total: $7983.54
+PO：PO-
+526365
+PRD-6326
+USB Controller
+Qty: 29
+Price: $13l.23
+Total： $3805.67
+PO:
+PO-526365
+PRD-8572
+USB Controller
+Qty: 4
+Price： $108.52
+Total： $434.08
+PO：PO-
+526365
